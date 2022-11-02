@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f_cafe_juicy">
+
+    <TextView
+        android:layout_width="227dp"
+        android:layout_height="406dp"
+        android:layout_gravity="left|center_vertical"
+        android:gravity="center_horizontal|left"
+        android:paddingLeft="40dp"
+        android:text="@string/juicy_info"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView70"
+        android:layout_width="366dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:paddingLeft="60dp"
+        android:text="@string/juicy"
+        android:textAlignment="gravity"
+        android:textColor="@color/black"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView54"
+        android:layout_width="113dp"
+        android:layout_height="66dp"
+        android:paddingLeft="30dp"
+        android:paddingTop="1dp"
+        android:src="@drawable/juicy_logo" />
+
+    <ImageView
+        android:id="@+id/imageView55"
+        android:layout_width="212dp"
+        android:layout_height="419dp"
+        android:layout_gravity="right|center_vertical"
+        android:padding="10dp"
+        android:src="@drawable/juicy_menu" />
+
+    <ImageView
+        android:id="@+id/imageView56"
+        android:layout_width="match_parent"
+        android:layout_height="207dp"
+        android:layout_gravity="bottom"
+        android:padding="2dp"
+        android:src="@drawable/juicy_full" />
+
+</FrameLayout>

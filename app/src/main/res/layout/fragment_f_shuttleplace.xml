@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFFFF"
+    tools:context=".f_shuttleplace">
+
+    <ImageView
+        android:id="@+id/imageView40"
+        android:layout_width="350dp"
+        android:layout_height="530dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/mappin3" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="95dp"
+        android:layout_gravity="bottom|center"
+        android:gravity="center|left"
+        android:text="@string/pin"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView50"
+        android:layout_width="365dp"
+        android:layout_height="77dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:text="@string/busstop"
+        android:textColor="@color/tu_blue"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+</FrameLayout>

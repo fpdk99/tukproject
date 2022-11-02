@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".frag_mechanical_engineering">
+
+
+    <ImageView
+        android:id="@+id/imageView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:src="@drawable/mechanical" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="300dp"
+        android:layout_height="435dp"
+        android:layout_gravity="center"
+        android:gravity="start|center_horizontal"
+        android:lineSpacingMultiplier="1.25"
+        android:text="@string/mechanical_info"
+        android:textColor="@color/tu_blue"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="match_parent"
+        android:layout_height="104dp"
+        android:gravity="center"
+        android:text="@string/mechanical"
+        android:textAlignment="center"
+        android:textColor="@color/tu_blue"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+</FrameLayout>

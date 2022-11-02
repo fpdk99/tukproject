@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f_food_hansdeli">
+
+    <ImageView
+        android:id="@+id/imageView75"
+        android:layout_width="match_parent"
+        android:layout_height="268dp"
+        android:layout_gravity="bottom|center_vertical"
+        android:src="@drawable/hansdeli_full" />
+
+    <TextView
+        android:id="@+id/textView44"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:paddingLeft="50dp"
+        android:text="@string/hansdeli"
+        android:textAlignment="gravity"
+        android:textColor="@color/black"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView71"
+        android:layout_width="153dp"
+        android:layout_height="70dp"
+        android:paddingLeft="30dp"
+        android:src="@drawable/hansdeli_logo" />
+
+    <TextView
+        android:id="@+id/textView98"
+        android:layout_width="355dp"
+        android:layout_height="452dp"
+        android:layout_gravity="center|left"
+        android:paddingLeft="60dp"
+        android:text="@string/hansdeli_info"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+</FrameLayout>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f_food_s_tomato">
+
+    <ImageView
+        android:id="@+id/imageView79"
+        android:layout_width="391dp"
+        android:layout_height="268dp"
+        android:layout_gravity="bottom|center_horizontal"
+
+        android:src="@drawable/tomato_full" />
+
+    <ImageView
+        android:id="@+id/imageView80"
+        android:layout_width="347dp"
+        android:layout_height="122dp"
+        android:layout_gravity="center"
+        android:paddingBottom="3dp"
+        android:src="@drawable/tomato_menu" />
+
+    <TextView
+        android:id="@+id/textView94"
+        android:layout_width="350dp"
+        android:layout_height="467dp"
+        android:layout_gravity="center|left"
+        android:paddingLeft="50dp"
+        android:text="@string/tomato_info"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView52"
+        android:layout_width="139dp"
+        android:layout_height="65dp"
+        android:paddingTop="4dp"
+        android:src="@drawable/tomato_logo" />
+
+    <TextView
+        android:id="@+id/textView68"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:paddingLeft="50dp"
+        android:text="@string/tomato"
+        android:textAlignment="gravity"
+        android:textColor="@color/black"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+</FrameLayout>

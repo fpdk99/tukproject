@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f_food_olivegreen">
+
+    <ImageView
+        android:id="@+id/imageView73"
+        android:layout_width="309dp"
+        android:layout_height="302dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:src="@drawable/olivegreen_menu" /><![CDATA[
+
+    ImageView
+        android:id="@+id/imageView74"
+        android:layout_width="124dp"
+        android:layout_height="64dp"
+        android:paddingLeft="2dp"
+
+        android:src="@drawable/olivegreen" />
+
+    ]]>
+
+    <TextView
+        android:id="@+id/textView97"
+        android:layout_width="365dp"
+        android:layout_height="435dp"
+        android:layout_gravity="center|left"
+        android:paddingLeft="40dp"
+        android:text="@string/olivegreen_info"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView73"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:text="@string/olive"
+        android:textAlignment="gravity"
+
+        android:textColor="@color/black"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+</FrameLayout>

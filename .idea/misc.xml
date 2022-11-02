@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1235" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1235" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/drawable/ic_location_on_red_24dp.xml" value="0.1235" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/drawable/roundsqure.xml" value="0.1235" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/layout/activity_arnavigation.xml" value="0.1125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/layout/activity_arnavigation_search.xml" value="0.1125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/layout/activity_cafe.xml" value="0.1125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/layout/activity_food.xml" value="0.1125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/layout/activity_guide.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/layout/activity_guide_eengineering.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/layout/activity_major.xml" value="0.1125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/layout/activity_shuttlebus.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/layout/activity_subway.xml" value="0.1125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/layout/activity_subway_suin.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/layout/arnavigation_activity.xml" value="0.1125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/layout/fragment_f_shuttleplace.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/layout/fragment_f_shuttletime.xml" value="0.536" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar (4)/tukar (2)/app/src/main/res/layout/member_menu.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/ic_baseline_directions_bus_24.xml" value="0.231" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/ic_baseline_fastfood_24.xml" value="0.1355" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/ic_baseline_home_work_24.xml" value="0.1355" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1355" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.1355" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/ic_baseline_restaurant_24.xml" value="0.1355" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/ic_baseline_school_24.xml" value="0.1355" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/icon_bed.xml" value="0.113" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/icon_bus.xml" value="0.113" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/icon_food.xml" value="0.113" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/icon_graduation.xml" value="0.113" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/icon_school.xml" value="0.113" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/iconsize.xml" value="0.113" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/roundsqure.xml" value="0.231" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/drawable/roundsqure2.xml" value="0.231" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_cafe.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_campus1.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_convenience.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_efood.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_food.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_guide.xml" value="0.176" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_guide_climb.xml" value="0.264" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_guide_ebook.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_guide_eengineering.xml" value="0.2" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_guide_facility.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_guide_info.xml" value="0.176" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_guide_info_way.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_guide_library.xml" value="0.264" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_guide_library2.xml" value="0.264" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_guide_library3.xml" value="0.48582995951417" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_guide_second_domitory.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_guide_tip.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_guide_vr.xml" value="0.134375" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_insta_club.xml" value="0.1125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_insta_domi.xml" value="0.1" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_insta_official.xml" value="0.1125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_instargram.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_location_permission_helper.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_main.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_major.xml" value="0.19623875715453803" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_marketing.xml" value="0.264" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_member_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_menu.xml" value="0.176" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_modelhouse.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_non_member_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_promotion.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_restaurant.xml" value="0.2" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_shuttlebus.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_studentfood.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_subway.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_subway_suin.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_telephone.xml" value="0.176" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/activity_youtube.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_bookstore.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_cafe_dayday.xml" value="0.2" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_cafe_juicy.xml" value="0.264" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_cafe_paris.xml" value="0.2" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_cafe_tospia.xml" value="0.176" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_cafe_zoo.xml" value="0.264" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_convenience.xml" value="0.134375" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_convenience2.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_copy.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_food_burger.xml" value="0.16" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_food_e_edupersonal.xml" value="0.2" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_food_hansdeli.xml" value="0.152" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_food_nadri.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_food_olivegreen.xml" value="0.176" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_food_raon.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_food_s_nadri.xml" value="0.2" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_food_s_og.xml" value="0.176" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_food_s_tomato.xml" value="0.176" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_food_sinbul.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_food_student.xml" value="0.176" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_food_tip1.xml" value="0.2" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_food_tomato.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_food_ukuya.xml" value="0.264" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_laundry.xml" value="0.134375" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_shuttleplace.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_shuttletime.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_f_streetview.xml" value="0.4" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_fac_sports.xml" value="0.11200000000000002" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_frag_advancedmaterials_engineering.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_frag_biochemical_engineering.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_frag_business_administration.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_frag_left.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_frag_right.xml" value="0.2390625" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_frag_straight.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/fragment_futuremajor.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/itemcallout.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/loadingpage.xml" value="0.125" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/member_menu.xml" value="0.2" />
+        <entry key="..\:/Users/fpdk9/Desktop/tukar(2)/app/src/main/res/layout/non_member_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

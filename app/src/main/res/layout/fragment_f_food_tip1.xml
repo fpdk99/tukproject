@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".f_food_tip1">
+
+    <ImageView
+        android:id="@+id/imageView29"
+        android:layout_width="121dp"
+        android:layout_height="65dp"
+        android:paddingTop="4dp"
+        android:src="@drawable/tipfood_logo" />
+
+    <TextView
+        android:id="@+id/textView75"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:paddingLeft="65dp"
+        android:text="@string/tipfood"
+        android:textAlignment="gravity"
+        android:textColor="@color/black"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView30"
+        android:layout_width="227dp"
+        android:layout_height="298dp"
+        android:layout_gravity="bottom|right"
+        android:paddingLeft="2dp"
+        android:paddingTop="18dp"
+        android:paddingRight="30dp"
+        android:paddingBottom="10dp"
+        android:src="@drawable/tipfood_full" />
+
+    <ImageView
+        android:id="@+id/imageView31"
+        android:layout_width="214dp"
+        android:layout_height="268dp"
+        android:layout_gravity="bottom|center_vertical"
+        android:paddingLeft="25dp"
+        android:paddingTop="20dp"
+        android:paddingRight="27dp"
+        android:paddingBottom="40dp"
+        android:src="@drawable/tipfood_menu" />
+
+    <TextView
+        android:id="@+id/textView47"
+        android:layout_width="355dp"
+        android:layout_height="441dp"
+        android:layout_gravity="center|left"
+        android:paddingLeft="40dp"
+        android:text="@string/tipfood_info"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+</FrameLayout>

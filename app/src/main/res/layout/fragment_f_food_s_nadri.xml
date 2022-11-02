@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f_food_s_nadri">
+
+    <ImageView
+        android:id="@+id/imageView66"
+        android:layout_width="match_parent"
+        android:layout_height="390dp"
+        android:layout_gravity="bottom|center_vertical"
+
+        android:src="@drawable/nadri_full" />
+
+    <TextView
+        android:id="@+id/textView95"
+        android:layout_width="370dp"
+        android:layout_height="475dp"
+        android:layout_gravity="center|left"
+        android:paddingLeft="60dp"
+        android:text="@string/nadri_info"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView53"
+        android:layout_width="152dp"
+        android:layout_height="65dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="4dp"
+        android:src="@drawable/nadri_logo" />
+
+
+    <TextView
+        android:id="@+id/textView69"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:paddingLeft="48dp"
+        android:text="@string/nadri"
+        android:textAlignment="gravity"
+        android:textColor="@color/black"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+</FrameLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFFFF"
+    tools:context=".f_shuttletime">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:text="@string/week"
+        android:textColor="@color/tu_blue"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal|center_vertical"
+        android:paddingTop="40dp"
+        android:text="@string/weekend"
+        android:textColor="@color/tu_blue"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="360dp"
+        android:layout_height="335dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/shuttletime_week" />
+
+    <ImageView
+        android:id="@+id/imageView39"
+        android:layout_width="315dp"
+        android:layout_height="255dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:src="@drawable/shuttletime_weekend" />
+</FrameLayout>

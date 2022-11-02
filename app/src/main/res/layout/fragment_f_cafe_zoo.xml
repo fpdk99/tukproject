@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f_cafe_zoo">
+
+    <TextView
+        android:id="@+id/textView81"
+        android:layout_width="377dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:paddingLeft="50dp"
+        android:text="@string/zoo"
+        android:textAlignment="gravity"
+        android:textColor="@color/black"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView59"
+        android:layout_width="104dp"
+        android:layout_height="65dp"
+        android:paddingLeft="10dp"
+        android:src="@drawable/zoo_logo" />
+
+    <TextView
+        android:id="@+id/textView82"
+        android:layout_width="325dp"
+        android:layout_height="416dp"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:text="@string/zoo_info"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView65"
+        android:layout_width="405dp"
+        android:layout_height="323dp"
+        android:layout_gravity="bottom|center_horizontal|center_vertical"
+
+        android:src="@drawable/zoo_full" />
+</FrameLayout>

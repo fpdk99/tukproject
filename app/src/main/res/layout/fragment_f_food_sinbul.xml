@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f_food_sinbul">
+
+    <TextView
+        android:id="@+id/textView92"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:paddingLeft="65dp"
+        android:text="@string/sinbul"
+        android:textAlignment="gravity"
+        android:textColor="@color/black"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView69"
+        android:layout_width="165dp"
+        android:layout_height="65dp"
+        android:paddingTop="4dp"
+        android:src="@drawable/sinbul_logo" />
+
+    <TextView
+        android:id="@+id/textView93"
+        android:layout_width="381dp"
+        android:layout_height="444dp"
+        android:layout_gravity="center|left"
+        android:paddingLeft="50dp"
+        android:text="@string/sinbul_info"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView64"
+        android:layout_width="393dp"
+        android:layout_height="335dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:src="@drawable/sinbul_full" />
+</FrameLayout>

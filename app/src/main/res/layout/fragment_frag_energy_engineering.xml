@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".frag_energy_engineering">
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:src="@drawable/energy" />
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="300dp"
+        android:layout_height="455dp"
+        android:layout_gravity="center"
+        android:gravity="start|center_horizontal"
+        android:lineSpacingMultiplier="1.25"
+        android:text="@string/energy_info"
+        android:textColor="@color/tu_blue"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="match_parent"
+        android:layout_height="104dp"
+        android:gravity="center"
+        android:text="@string/energy"
+        android:textAlignment="center"
+        android:textColor="@color/tu_blue"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+
+</FrameLayout>

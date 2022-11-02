@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f_food_s_og">
+
+    <TextView
+        android:id="@+id/textView66"
+        android:layout_width="300dp"
+        android:layout_height="320dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_vertical"
+        android:text="@string/og_info"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView67"
+        android:layout_width="345dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="right"
+        android:text="@string/og"
+        android:textAlignment="gravity"
+        android:textColor="@color/black"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView50"
+        android:layout_width="124dp"
+        android:layout_height="74dp"
+        android:paddingLeft="15dp"
+        android:paddingTop="1dp"
+        android:src="@drawable/og_logo" />
+
+    <ImageView
+        android:id="@+id/imageView58"
+        android:layout_width="match_parent"
+        android:layout_height="286dp"
+        android:layout_gravity="center_vertical"
+        android:paddingTop="80dp"
+        android:rotation="0"
+        android:src="@drawable/og_full" />
+
+    <ImageView
+        android:id="@+id/imageView60"
+        android:layout_width="match_parent"
+        android:layout_height="177dp"
+        android:layout_gravity="bottom"
+        android:src="@drawable/sanyoong" />
+</FrameLayout>
